@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "title": "5 Tips for Sustainable Business Success",
+        "link": "/news-single-post",
+        "imgTitle": "5 Tips for Sustainable Business Success",
+        "imgLink": "assets/img/placeholder/news1.jpg",
+        "imgAlt": "5 Tips for Sustainable Business Success",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "2",
+        "title": "Assessing the Maturity of Your Data Management in Industry",
+        "link": "/news-single-post",
+        "imgTitle": "Assessing the Maturity of Your Data Management in Industry",
+        "imgLink": "assets/img/placeholder/news2.jpg",
+        "imgAlt": "Assessing the Maturity of Your Data Management in Industry",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "3",
+        "title": "How to Build Your Sustainable Business Strategy",
+        "link": "/news-single-post",
+        "imgTitle": "How to Build Your Sustainable Business Strategy",
+        "imgLink": "assets/img/placeholder/news3.jpg",
+        "imgAlt": "How to Build Your Sustainable Business Strategy",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "4",
+        "title": "5 Tips for Sustainable Business Success",
+        "link": "/news-single-post",
+        "imgTitle": "5 Tips for Sustainable Business Success",
+        "imgLink": "assets/img/placeholder/news1.jpg",
+        "imgAlt": "5 Tips for Sustainable Business Success",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "5",
+        "title": "Assessing the Maturity of Your Data Management in Industry",
+        "link": "/news-single-post",
+        "imgTitle": "Assessing the Maturity of Your Data Management in Industry",
+        "imgLink": "assets/img/placeholder/news2.jpg",
+        "imgAlt": "Assessing the Maturity of Your Data Management in Industry",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "6",
+        "title": "How to Build Your Sustainable Business Strategy",
+        "link": "/news-single-post",
+        "imgTitle": "How to Build Your Sustainable Business Strategy",
+        "imgLink": "assets/img/placeholder/news3.jpg",
+        "imgAlt": "How to Build Your Sustainable Business Strategy",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "7",
+        "title": "5 Tips for Sustainable Business Success",
+        "link": "/news-single-post",
+        "imgTitle": "5 Tips for Sustainable Business Success",
+        "imgLink": "assets/img/placeholder/news1.jpg",
+        "imgAlt": "5 Tips for Sustainable Business Success",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    },
+    {
+        "id": "8",
+        "title": "Assessing the Maturity of Your Data Management in Industry",
+        "link": "/news-single-post",
+        "imgTitle": "Assessing the Maturity of Your Data Management in Industry",
+        "imgLink": "assets/img/placeholder/news2.jpg",
+        "imgAlt": "Assessing the Maturity of Your Data Management in Industry",
+        "categoryLink": "/news",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducims…"
+    }
+]

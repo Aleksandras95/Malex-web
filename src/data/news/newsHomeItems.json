@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "title": "5 Benefits of Going to a BARBER",
+        "link": "/news-single-post",
+        "imgTitle": "Women beauty presents",
+        "imgLink": "assets/img/placeholder/news1.jpg",
+        "imgAlt": "Women beauty presents",
+        "categoryTitle": "Hairstyle",
+        "categoryLink": "/news",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": "2",
+        "title": "Which Trim Should I Choose?",
+        "link": "/news-single-post",
+        "imgTitle": "Red lipstick habits",
+        "imgLink": "assets/img/placeholder/news2.jpg",
+        "imgAlt": "Women beauty presents",
+        "categoryTitle": "Beard",
+        "categoryLink": "/news",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": "3",
+        "title": "Best Cosmetics for Your HAIR",
+        "link": "/news-single-post",
+        "imgTitle": "Body cream & shampoo",
+        "imgLink": "assets/img/placeholder/news3.jpg",
+        "imgAlt": "Women beauty presents",
+        "categoryTitle": "Cosmetic",
+        "categoryLink": "/news",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]

@@ -1,0 +1,31 @@
+//=================================================
+// Signature
+//=================================================
+
+.signature {
+	@extend .d-flex;
+	@extend .align-items-center;
+
+	.signature-img {
+		padding-right: $space_md;
+
+		&:last-child {
+			padding-right: 0;
+		}
+
+		img {
+			max-width: 6.737rem;
+			width: 100%;
+		}
+	}
+
+	.signature-content {
+		.signature-name {
+			color: $body_headline_color;
+		}
+
+		.signature-position {
+			margin-top: -0.895rem;
+		}
+	}
+}
